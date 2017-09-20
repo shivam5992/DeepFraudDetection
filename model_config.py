@@ -1,0 +1,10 @@
+input_nodes = 30
+hidden_nodes1 = 16
+hidden_nodes2 = 8
+hidden_nodes3 = 4 
+output_nodes = 2
+batch_size = 100
+learning_rate = 0.1
+training_epochs = 200
+display_step = 100
+dropout = 0.8

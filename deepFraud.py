@@ -1,7 +1,7 @@
+from sklearn.utils import shuffle
 import tensorflow as tf 
 import pandas as pd 
 import numpy as np 
-from sklearn.utils import shuffle
 
 input_data = pd.read_csv('data/creditcard.csv')
 
